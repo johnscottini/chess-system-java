@@ -1,8 +1,5 @@
 package boardgame;
 
-import javax.security.sasl.AuthorizeCallback;
-import javax.sql.RowSetMetaData;
-
 public class Board {
 
 	public Board(int rows, int colums) {
